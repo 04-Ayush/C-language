@@ -1,3 +1,4 @@
+// This program is to check the greatest number from three numbers
 #include<stdio.h>
 
 int main(){
